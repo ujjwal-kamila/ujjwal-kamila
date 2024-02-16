@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujjwalkamila86" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalkamila86?logo=twitter&style=for-the-badge" alt="ujjwalkamila86" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python & DSA**
 
