@@ -10,7 +10,7 @@
 <h3 align="center">A passionate Software developer from Kalyani,India</h3>
 
 
-<p align="left"> <a href="https://twitter.com/ujjwalkamila86" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalkamila86?logo=twitter&style=for-the-badge" alt="ujjwalkamila86" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ujjwalkamila86" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalkamila86?logo=twitter&style=for-the-badge" width="75"alt="ujjwalkamila86" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
