@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python & DSA**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **ujjwalkamila86@gmail.com**
 
