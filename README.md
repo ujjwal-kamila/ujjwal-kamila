@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujjwalkamila86" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalkamila86?logo=twitter&style=for-the-badge" width="200"alt="ujjwalkamila86" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **DSA**
 
