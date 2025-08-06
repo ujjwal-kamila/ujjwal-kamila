@@ -15,7 +15,7 @@
 - 📫 How to reach me **ujjwalkamila86@gmail.com**
 
 - ⚡ Bio **CSE student at MAKAUT,WB. Passionate about Software Development, completed multiple Python projects**
-- 🌐 Portfolio: [ujjwal-kamila.github.io/Portfolio](https://ujjwal-kamila.github.io/Portfolio/)
+- 🌐 Portfolio: https://ujjwal-kamila.vercel.app/
 
 # 🤝 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=Firefox&logoColor=white)](https://ujjwal-kamila.github.io/Portfolio/) [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ujjwalkamila86@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/ujjwalkamila86/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-kamila-8a12a4262/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ujjwalkamila.ujjwal/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujjwalkamila86) [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ujjwalkamila86) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ujjwalkamila86) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ujjwalka3uxp)
