@@ -14,8 +14,6 @@
 <br>
 
 # 💫 About Me:
-
-
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **DSA**
@@ -43,18 +41,14 @@
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal-kamila&show_icons=true&locale=en&layout=compact&theme=algolia"height="170px"/>   <!-- Streak Stats --> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ujjwal-kamila&theme=algolia&hide_border=false" height="170px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ujjwal-kamila&theme=algolia&hide_border=false" height="160px"/>
 </p>
 
 
-
-
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal-kamila&show_icons=true&locale=en&theme=algolia" height="160px"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-contributor-stats.vercel.app/api?username=ujjwal-kamila&limit=2&theme=algolia&show_owner=true&combine_all_yearly_contributions=false" height="160px"/>
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal-kamila&show_icons=true&locale=en&theme=algolia" height="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-contributor-stats.vercel.app/api?username=ujjwal-kamila&limit=2&theme=algolia&show_owner=true&combine_all_yearly_contributions=false" height="150px"/>
+</p> -->
 
 
 
