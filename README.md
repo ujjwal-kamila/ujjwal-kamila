@@ -45,17 +45,17 @@
 </p>
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwal-kamila&show_icons=true&locale=en&theme=algolia" height="150px"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-contributor-stats.vercel.app/api?username=ujjwal-kamila&limit=2&theme=algolia&show_owner=true&combine_all_yearly_contributions=false" height="150px"/>
-</p> -->
+</p>
 
 
 
 <!--Contribution Graph-->
 <h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal-kamila&bg_color=0d1117&color=00AEFF&line=00AEFF&point=FFFFFF&area=true&hide_border=false" style="border-radius: 20px;" width="80%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal-kamila&bg_color=0d1117&color=00AEFF&line=00AEFF&point=FFFFFF&area=true&hide_border=false" style="border-radius: 15px;" width="80%"/>
 </div>
 <br>
 
